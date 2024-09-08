@@ -1,0 +1,27 @@
+{
+    "id": "31E77905",
+    "path": "~/BHT/Ml-1/Classification_LDA_QDA/Posterior_function.R",
+    "project_path": "Posterior_function.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1725734982762.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "38,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725736953,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1725736953634,
+    "read_only": false,
+    "read_only_alternatives": []
+}
